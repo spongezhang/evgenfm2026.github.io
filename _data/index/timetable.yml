@@ -6,7 +6,7 @@
     detail: 
     host: 
   date:
-    detail: 8:00 - 8:10 am (MDT)
+    detail: 8:20 - 8:30 am (MDT)
   icon: fa-microphone
 
 - name:
@@ -15,7 +15,7 @@
     detail: Ranjay Krishna
     host: 
   date:
-    detail: 8:10 - 8:35 am (MDT)
+    detail: 8:30 - 9:00 am (MDT)
   icon: fa-microphone
 
 - name:
@@ -24,7 +24,7 @@
     detail: Adriana Romero Soriano
     host: 
   date:
-    detail: 8:35 - 9:00 am (MDT)
+    detail: 9:00 - 9:30 am (MDT)
   icon: fa-microphone
 
 - name:
@@ -33,7 +33,7 @@
     detail: Felix Friedrich
     host: 
   date:
-    detail: 9:00 - 9:25 am (MDT)
+    detail: 9:30 - 10:00 am (MDT)
   icon: fa-microphone
 
 - name:
@@ -42,7 +42,7 @@
     detail: 
     host: 
   date:
-    detail: 9:25 - 9:50 am (MDT)
+    detail: 10:00 - 10:30 am (MDT)
   icon: fa-microphone
 
 - name:
@@ -51,7 +51,7 @@
     detail: 
     host: 
   date:
-    detail: 9:50 - 10:25 am (MDT)
+    detail: 10:30 - 10:50 am (MDT)
   icon: fa-coffee
 
 - name:
@@ -60,7 +60,7 @@
     detail: Yuxiong Wang
     host: 
   date:
-    detail: 10:25 - 10:50 am (MDT)
+    detail: 10:50 - 11:15 am (MDT)
   icon: fa-microphone
 
 - name:
@@ -69,7 +69,7 @@
     detail: Sherry X. Chen
     host: 
   date:
-    detail: 10:50 - 11:15 am (MDT)
+    detail: 11:15 - 11:40 am (MDT)
   icon: fa-microphone
 
 - name:
@@ -78,7 +78,7 @@
     detail: Koustuv Sinha (virtual)
     host: 
   date:
-    detail: 11:15 - 11:40 am (MDT)
+    detail: 11:40 am - 12:05 pm (MDT)
   icon: fa-microphone
 
 - name:
@@ -87,17 +87,8 @@
     detail: 
     host: 
   date:
-    detail: 11:40 am - 12:00 pm (MDT)
+    detail: 12:05 - 12:25 pm (MDT)
   icon: fa-microphone
-
-- name:
-    detail: Panel Discussion
-  desc:
-    detail: 
-    host: 
-  date:
-    detail: 12:00 - 12:30 pm (MDT)
-  icon: fa-comments-o
 
 - name:
     detail: Closing Remarks
@@ -105,5 +96,5 @@
     detail: 
     host: 
   date:
-    detail: 12:30 - 1:00 pm (MDT)
+    detail: 12:25 - 12:30 pm (MDT)
   icon: fa-microphone
