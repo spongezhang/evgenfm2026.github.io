@@ -12,7 +12,7 @@
 - name:
     detail: "Invited Talk #1"
   desc:
-    detail: 
+    detail: Ranjay Krishna
     host: 
   date:
     detail: 8:10 - 8:35 am (MDT)
@@ -21,7 +21,7 @@
 - name:
     detail: "Invited Talk #2"
   desc:
-    detail: 
+    detail: Adriana Romero Soriano
     host: 
   date:
     detail: 8:35 - 9:00 am (MDT)
@@ -30,7 +30,7 @@
 - name:
     detail: "Invited Talk #3"
   desc:
-    detail: 
+    detail: Felix Friedrich
     host: 
   date:
     detail: 9:00 - 9:25 am (MDT)
@@ -57,7 +57,7 @@
 - name:
     detail: "Invited Talk #4"
   desc:
-    detail: 
+    detail: Yuxiong Wang
     host: 
   date:
     detail: 10:25 - 10:50 am (MDT)
@@ -66,7 +66,7 @@
 - name:
     detail: "Invited Talk #5"
   desc:
-    detail: 
+    detail: Sherry X. Chen
     host: 
   date:
     detail: 10:50 - 11:15 am (MDT)
@@ -75,7 +75,7 @@
 - name:
     detail: "Invited Talk #6"
   desc:
-    detail: 
+    detail: Koustuv Sinha (virtual)
     host: 
   date:
     detail: 11:15 - 11:40 am (MDT)
