@@ -46,4 +46,12 @@
   desc: UIUC
   title: ""
   abstract: ""
+  url:
+
+- name: Liangyan Gui
+  i18n: LiangyanGui
+  img: /static/assets/img/landing/liangyan.png
+  desc: UIUC
+  title: ""
+  abstract: ""
   url: 

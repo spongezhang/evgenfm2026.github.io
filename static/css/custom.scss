@@ -7,3 +7,9 @@
 @import "open_sans";
 @import "roboto";
 @import "style";
+
+#i18_speaker .speaker-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

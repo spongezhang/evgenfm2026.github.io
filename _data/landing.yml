@@ -18,12 +18,6 @@
   tpl: speaker.html
   css: speaker
 
-- id: Submission
-  i18n: nav.submission
-  name: submissions
-  tpl: submission.html
-  css: timetable
-
 - id: PC
   i18n: nav.pc
   name: pc
