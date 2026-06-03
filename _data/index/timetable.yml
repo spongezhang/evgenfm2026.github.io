@@ -24,7 +24,7 @@
     abstract: https://docs.google.com/document/d/1s-EyY958lTiZXeJKbl6ppDs6iyN5jahF7iLJtKp7S44/edit?usp=sharing
     host:
   date:
-    detail: 9:00 - 9:30 am (MDT)
+    detail: 9:00 am - 9:30 am (MDT)
   icon: fa-microphone
 
 - name:
@@ -33,7 +33,7 @@
     speaker: Felix Friedrich
     host:
   date:
-    detail: 9:30 - 10:00 am (MDT)
+    detail: 9:30 am - 10:00 am (MDT)
   icon: fa-microphone
 
 - name:
@@ -49,7 +49,7 @@
       - title: "FAGER: Factually Grounded Evaluation and Refinement of Text-to-Image Models"
         pdf:
   date:
-    detail: 10:00 - 10:30 am (MDT)
+    detail: 10:00 am - 10:30 am (MDT)
   icon: fa-microphone
 
 - name:
@@ -57,7 +57,7 @@
   desc:
     host:
   date:
-    detail: 10:30 - 11:00 am (MDT)
+    detail: 10:30 am - 11:00 am (MDT)
   icon: fa-coffee
 
 - name:
@@ -67,7 +67,7 @@
     title: "Grounded or Delusional? Evaluating the Visual and Physical Reality of Foundation Models"
     host:
   date:
-    detail: 11:00 - 11:30 am (MDT)
+    detail: 11:00 am - 11:30 am (MDT)
   icon: fa-microphone
 
 - name:
@@ -78,16 +78,7 @@
     host:
     abstract: https://docs.google.com/document/d/1aTGItR7DQvZcaaFjXKg2gsWm5QpJIY4cjUbxly0eRbk/edit?usp=sharing
   date:
-    detail: 11:30 - 11:55 am (MDT)
-  icon: fa-microphone
-
-- name:
-    detail: "Invited Talk #6"
-  desc:
-    speaker: Koustuv Sinha (virtual)
-    host:
-  date:
-    detail: 11:55 am - 12:20 pm (MDT)
+    detail: 11:30 am - 11:55 am (MDT)
   icon: fa-microphone
 
 - name:
@@ -95,5 +86,5 @@
   desc:
     host:
   date:
-    detail: 12:20 - 12:25 pm (MDT)
+    detail: 11:55 am - 12:00 pm (MDT)
   icon: fa-microphone
