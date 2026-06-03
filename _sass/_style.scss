@@ -1147,19 +1147,31 @@ label.error {
   font-weight: 400;
 }
 
+.vertical-timeline-content > h2 {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.5em;
+  margin-bottom: 0.8em;
+}
+
+.timetable-speaker {
+  display: block;
+  color: #676a6c;
+  margin-bottom: 0.8em;
+}
+
 .blitz-papers {
-  margin: 0.6em 0 0.8em 1.2em;
+  margin: 0 0 0.4em 1.2em;
   padding: 0;
-  border-top: 1px solid #eee;
-  padding-top: 0.6em;
+  color: #aeaeae;
   li {
     margin-bottom: 0.5em;
     line-height: 1.5;
+    &::marker { color: #aeaeae; }
     &:last-child { margin-bottom: 0; }
   }
   .blitz-paper-title {
     font-weight: 400;
-    color: #676a6c;
+    color: #aeaeae;
   }
   a.blitz-paper-title:hover { color: #8833FF; }
   .blitz-paper-authors {

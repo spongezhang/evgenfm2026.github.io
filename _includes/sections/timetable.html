@@ -17,10 +17,10 @@
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="timetable.{{ timetable.name.i18n }}">{{ timetable.name.detail }}</span></h2>
                         {% if timetable.desc.speaker %}
-                        <p><span data-i18n="timetable.{{ timetable.desc.i18n }}" style="color:black">{{ timetable.desc.speaker }} </span> <br />
+                        <p><span data-i18n="timetable.{{ timetable.desc.i18n }}" class="timetable-speaker">{{ timetable.desc.speaker }}</span>
                         {% endif %}
                         {% if timetable.desc.title %}
-                        <span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.title }} </span></p>
+                        <span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.title }}</span></p>
                         {% endif %}
                         {% if timetable.desc.group1 %}
                             {% if timetable.desc.link1 %}
