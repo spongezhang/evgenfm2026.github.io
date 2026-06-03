@@ -20,6 +20,8 @@
     detail: "Invited Talk #2"
   desc:
     speaker: Adriana Romero Soriano
+    title: Benchmarking and improving learning through imagination
+    abstract: https://docs.google.com/document/d/1s-EyY958lTiZXeJKbl6ppDs6iyN5jahF7iLJtKp7S44/edit?usp=sharing
     host:
   date:
     detail: 9:00 - 9:30 am (MDT)
@@ -74,6 +76,7 @@
     speaker: Sherry X. Chen
     title: "From Noisy Signals to Robust Evaluation: Feedback Loops for Generative Foundation Models"
     host:
+    abstract: https://docs.google.com/document/d/1aTGItR7DQvZcaaFjXKg2gsWm5QpJIY4cjUbxly0eRbk/edit?usp=sharing
   date:
     detail: 11:30 - 11:55 am (MDT)
   icon: fa-microphone
