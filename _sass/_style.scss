@@ -1147,6 +1147,28 @@ label.error {
   font-weight: 400;
 }
 
+.blitz-papers {
+  margin: 0.6em 0 0.8em 1.2em;
+  padding: 0;
+  border-top: 1px solid #eee;
+  padding-top: 0.6em;
+  li {
+    margin-bottom: 0.5em;
+    line-height: 1.5;
+    &:last-child { margin-bottom: 0; }
+  }
+  .blitz-paper-title {
+    font-weight: 400;
+    color: #676a6c;
+  }
+  a.blitz-paper-title:hover { color: #8833FF; }
+  .blitz-paper-authors {
+    font-size: 0.9em;
+    color: #888;
+    font-style: italic;
+  }
+}
+
 .vertical-timeline-content::before {
   content: '';
   position: absolute;

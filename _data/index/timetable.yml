@@ -1,10 +1,7 @@
-# Workshop schedule data
-
 - name:
     detail: Opening Remarks
   desc:
-    detail: 
-    host: 
+    host:
   date:
     detail: 8:20 - 8:30 am (MDT)
   icon: fa-microphone
@@ -12,8 +9,9 @@
 - name:
     detail: "Invited Talk #1"
   desc:
-    detail: Ranjay Krishna
-    host: 
+    speaker: Ranjay Krishna
+    title: Updating generative evaluations to meet modern demands
+    host:
   date:
     detail: 8:30 - 9:00 am (MDT)
   icon: fa-microphone
@@ -21,8 +19,8 @@
 - name:
     detail: "Invited Talk #2"
   desc:
-    detail: Adriana Romero Soriano
-    host: 
+    speaker: Adriana Romero Soriano
+    host:
   date:
     detail: 9:00 - 9:30 am (MDT)
   icon: fa-microphone
@@ -30,8 +28,8 @@
 - name:
     detail: "Invited Talk #3"
   desc:
-    detail: Felix Friedrich
-    host: 
+    speaker: Felix Friedrich
+    host:
   date:
     detail: 9:30 - 10:00 am (MDT)
   icon: fa-microphone
@@ -39,8 +37,15 @@
 - name:
     detail: Blitz Talks
   desc:
-    detail: 
-    host: 
+    detail:
+    host:
+    papers:
+      - title: "ZCFD: A Depth-Aware Global Context and Hallucination Metric for Object Removal"
+        pdf:
+      - title: "DB-3DME: From Dataset to Benchmark for Human-aligned Automatic 3D Mesh Evaluation"
+        pdf:
+      - title: "FAGER: Factually Grounded Evaluation and Refinement of Text-to-Image Models"
+        pdf:
   date:
     detail: 10:00 - 10:30 am (MDT)
   icon: fa-microphone
@@ -48,53 +53,44 @@
 - name:
     detail: Coffee Break & Poster Session
   desc:
-    detail: 
-    host: 
+    host:
   date:
-    detail: 10:30 - 10:50 am (MDT)
+    detail: 10:30 - 11:00 am (MDT)
   icon: fa-coffee
 
 - name:
     detail: "Invited Talk #4"
   desc:
-    detail: Yuxiong Wang & Liangyan Gui
-    host: 
+    speaker: Yuxiong Wang & Liangyan Gui
+    title: "Grounded or Delusional? Evaluating the Visual and Physical Reality of Foundation Models"
+    host:
   date:
-    detail: 10:50 - 11:15 am (MDT)
+    detail: 11:00 - 11:30 am (MDT)
   icon: fa-microphone
 
 - name:
     detail: "Invited Talk #5"
   desc:
-    detail: Sherry X. Chen
-    host: 
+    speaker: Sherry X. Chen
+    title: "From Noisy Signals to Robust Evaluation: Feedback Loops for Generative Foundation Models"
+    host:
   date:
-    detail: 11:15 - 11:40 am (MDT)
+    detail: 11:30 - 11:55 am (MDT)
   icon: fa-microphone
 
 - name:
     detail: "Invited Talk #6"
   desc:
-    detail: Koustuv Sinha (virtual)
-    host: 
+    speaker: Koustuv Sinha (virtual)
+    host:
   date:
-    detail: 11:40 am - 12:05 pm (MDT)
-  icon: fa-microphone
-
-- name:
-    detail: Oral Paper Presentation
-  desc:
-    detail: 
-    host: 
-  date:
-    detail: 12:05 - 12:25 pm (MDT)
+    detail: 11:55 am - 12:20 pm (MDT)
   icon: fa-microphone
 
 - name:
     detail: Closing Remarks
   desc:
-    detail: 
-    host: 
+    host:
   date:
-    detail: 12:25 - 12:30 pm (MDT)
+    detail: 12:20 - 12:25 pm (MDT)
   icon: fa-microphone

@@ -16,8 +16,8 @@
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="timetable.{{ timetable.name.i18n }}">{{ timetable.name.detail }}</span></h2>
-                        {% if timetable.desc.detail %}
-                        <p><span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.detail }} </span> <br />
+                        {% if timetable.desc.speaker %}
+                        <p><span data-i18n="timetable.{{ timetable.desc.i18n }}" style="color:black">{{ timetable.desc.speaker }} </span> <br />
                         {% endif %}
                         {% if timetable.desc.title %}
                         <span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.title }} </span></p>
@@ -45,6 +45,22 @@
                         {% endif %}
                         {% if timetable.desc.abstract %}
                             <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.abstract}}" target="_blank">Abstract</a></span>
+                        {% endif %}
+                        {% if timetable.desc.papers %}
+                        <ol class="blitz-papers">
+                            {% for paper in timetable.desc.papers %}
+                            <li>
+                                {% if paper.pdf %}
+                                <a href="{{ paper.pdf }}" target="_blank" class="blitz-paper-title">{{ paper.title }}</a>
+                                {% else %}
+                                <span class="blitz-paper-title">{{ paper.title }}</span>
+                                {% endif %}
+                                {% if paper.authors %}
+                                <br /><span class="blitz-paper-authors">{{ paper.authors }}</span>
+                                {% endif %}
+                            </li>
+                            {% endfor %}
+                        </ol>
                         {% endif %}
                         {% if timetable.desc.host %}
                             <span data-i18n="timetable.{{ timetable.desc.i18n }}">(Hosted by {{timetable.desc.host}})</span>
