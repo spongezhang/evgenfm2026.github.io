@@ -17,12 +17,10 @@ author:
   desc: |
     <p>
     <span style="color:red"> Workshop Date: June 4, 2026 <br><br>
-    Workshop Location, Colorado Convention Center, Denver, CO (Room TBD) <br><br> </span>
+    Workshop Location: Colorado Convention Center, Denver, Room: Mile High 2C <br><br> </span>
     Since our inaugural workshop at CVPR 2024, generative foundation models have advanced at a striking pace: photorealistic image synthesis with FLUX and Imagen 3, long-form video generation via Sora and Runway Gen-3, multimodal reasoning in GPT-4o and Gemini, and production-ready 3D content creation. Meanwhile, reinforcement learning based post-training (RLHF, GRPO, DPO) has become standard for aligning these models, introducing new evaluation challenges around reward hacking, distributional shift, and alignment verification. <br><br>
     Yet evaluation has struggled to keep pace. Automatic metrics often miss nuanced human preferences, benchmarks saturate faster than they can be replaced, and instruction-following, long-context reasoning, and cross-modal generation demand fundamentally new assessment paradigms. <br><br>
     The 2nd Workshop on Evaluation for Generative Foundation Models at CVPR 2026 brings together researchers from academia and industry to share best practices, discuss ongoing efforts, and work toward more reliable, scalable evaluation protocols, spanning metrics, benchmarks, reward models, and human-in-the-loop methods, to ensure the safe and aligned deployment of next-generation foundation models. <br><br>
-    <span style="font-size:18px;">Submit your paper <a href="https://cmt3.research.microsoft.com/EvGenFMCVPR2024/Submission/Index" target="_blank" style="text-decoration: underline; color: #1ab394;">here</a></span> <br>
-    <span style="font-size:18px;"><a href="callforpapersevgen.pdf" target="_blank" style="text-decoration: underline; color: #1ab394;">Detailed Call for Papers</a></span>
     </p>
 
 # comment
