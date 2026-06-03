@@ -31,7 +31,9 @@
     detail: "Invited Talk #3"
   desc:
     speaker: Felix Friedrich
+    title: "Measure, then move the needle: safety across the multimodal pipeline"
     host:
+    abstract: https://docs.google.com/document/d/1s3ybYysT2vXNmedsNygynh8r_mY3gtZYFwhHacCIA3Q/edit?usp=sharing
   date:
     detail: 9:30 am - 10:00 am (MDT)
   icon: fa-microphone
